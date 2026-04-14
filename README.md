@@ -89,7 +89,3 @@ runitgui/
     └── commands/
         └── runit.rs   # sv command wrapper
 ```
-
-## License
-
-MIT License
